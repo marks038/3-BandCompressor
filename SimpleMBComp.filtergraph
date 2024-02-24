@@ -61,14 +61,14 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.61625" y="0.6471774193548387" useARA="0" uiLastX_Normal="271"
-          uiLastY_Normal="221" uiopen_Normal="0">
+  <FILTER uid="5" x="0.61625" y="0.6471774193548387" useARA="0" uiLastX_Normal="2549"
+          uiLastY_Normal="794" uiopen_Normal="1">
     <PLUGIN name="SimpleMBComp" format="VST3" category="Fx" manufacturer="Audacity Plugin"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\SimpleMBComp.vst3\Contents\x86_64-win\SimpleMBComp.vst3"
-            uniqueId="f665ec24" isInstrument="0" fileTime="18dd9695103" infoUpdateTime="18dd969a182"
+            uniqueId="f665ec24" isInstrument="0" fileTime="18dd9929c85" infoUpdateTime="18dd9944da5"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e9546f42"/>
-    <STATE>423.VMjLg3Y....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyLy3BTEwlXmAiUYoWUrIVdA4hKAAkKTETRUAUSAAkKBolQY4BQtHTQDQzX5UTLXEWPlM1Y2Y0XqEDTtjDTt3hKt3hKt3BTR4RPtPUPIUETMEDTtHjZFkkKDYWPEgTUXo2ZwDlKXcEVxU0UY4BQPIDQt3hKt3hKt3BTBAkKtTETRUDUS4BQl4xaQYjKAoFTAIUUFE1ZEEiXqEjYic1cVM1ZAAkKIAkKt3hKt3hKtnWXtDjKTETRUAUSAAkKBolQY4BQ1ITQPUjV3UULh4FNFElZAY1XmcmUisVPP4RRP4hKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtQUUCUEQTg2ZrM1YQcUVDUjQicVPP4RPHQEY1UTLhkWPP4RPL4hKi4hKt3hKt3hKtXlTU0DUQAURWoULEYzXqEEUXoWQFwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C.</STATE>
+    <STATE>478.VMjLgTc....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9HyMz3BTEwlXmAiUYoWUrIVdA4hKAQkKTETRUAUSAAkKBolQY4BQtHTQDQzX5UTLXEWPlM1Y2Y0XqEDTtjDTt3hKt3hKt3BTW4RPtPUPIUETMEDTtHjZFkkKDYWPEgTUXo2ZwDlKXcEVxU0UY4BQPIDQt3hKt3hKt3BTBAkKtTETRUDUS4BQl4xaQYjKAoFTAIUUFE1ZEEiXqEjYic1cVM1ZAAkKIAkKt3hKt3hKt7FYtDjKTETRUAUSAAkKBolQY4BQ1ITQPUjV3UULh4FNFElZAY1XmcmUisVPP4RRP4hKt3hKt3hKXAkKC4BUAkTUP0TPP4hPpYTVtPjYBUDRTQlcEEiX4UkQY4BVWgkbUcUVtPDTBQjKt3hKt3hKt3hKt3hKt3hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEVtPDTtHzZGI1YMIiXtPDTtLjKPcjKt3hKt3hKt3haTU0PUQDU3sFaicVTWkEQEYzXmEDOujzPu0Fbu4VYtQmO77hUSQ0LPwVcmklaSQWXzUlO..</STATE>
     <LAYOUT>
       <INPUTS>
         <BUS index="0" layout="L R"/>
@@ -82,10 +82,10 @@
           uiLastY_Normal="780" uiopen_Normal="1">
     <PLUGIN name="AudioFilePlayer" format="VST3" category="Fx" manufacturer="Matkat Music LLC"
             version="1.0.0" file="C:\Program Files\Common Files\VST3\AudioFilePlayer.vst3\Contents\x86_64-win\AudioFilePlayer.vst3"
-            uniqueId="79fe81c" isInstrument="0" fileTime="18dcf2c1723" infoUpdateTime="18dd969a182"
+            uniqueId="79fe81c" isInstrument="0" fileTime="18dcf2c1723" infoUpdateTime="18dd9944da5"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="e95d02c7"/>
-    <STATE>284.VMjLgLQ....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DiL43BTIISX1UEaho2ZVkUdAAkKAwDUigWRWkEcQ0VTucmUY4BQPoTQLolShUELhsVRxHlXvPEYwUjQZIVPqIVcuYUVoEkLhI1cwDFLQYUV3gSQisVSGMFchcEVwDjKt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
+    <STATE>276.VMjLgrP....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9DiLy3BTIISX1UEaho2ZVkUdAAkKAwDUigWRWkEcQ0VTucmUY4BQ1gTQLolShUELhsVRxHlXvPEYwUjQZIVPqIVcuYUVoEkLhIVSFo0aIcjXzI1UXESPt3hKt3hKt3hKt3hKlIUUMQUTPkzUZESQFM1ZQQEV5UjQtDDQlAEMAcEV40zQtDDQ14hK5EjKt3hKt3hKt3hRUACTEEzZh8VVWgkdUYTTmE0UXwyKIMzasA2atUlaz4COuX0TTMCTrU2Yo41TzEFck4C.</STATE>
     <LAYOUT>
       <INPUTS>
         <BUS index="0" layout="L R"/>
